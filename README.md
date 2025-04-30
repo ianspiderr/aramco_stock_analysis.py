@@ -12,12 +12,14 @@ pip install yfinance matplotlib pandas
 
 figures:
 
-![image](https://github.com/user-attachments/assets/8237a0f3-d419-49aa-8003-7f91032bd2cc)
+![Figure_13](https://github.com/user-attachments/assets/e7153d99-4d06-4d6b-a026-3ec36492d080)
 
 
-![image](https://github.com/user-attachments/assets/99b161ad-7ab5-4c89-baa8-a3cb1f76ba54)
+
+![Figure_12](https://github.com/user-attachments/assets/1e44bf15-cc2a-4313-957e-8181ef9e97d8)
 
 
-![image](https://github.com/user-attachments/assets/a81c9e40-421b-4fff-a4a7-810fe251d257)
+![Figure_1](https://github.com/user-attachments/assets/05dbfff8-df5a-4681-812d-0e97c4d81a91)
+
 
 
