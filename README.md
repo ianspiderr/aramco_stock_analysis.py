@@ -10,7 +10,11 @@ This project uses [yfinance](https://github.com/ranaroussi/yfinance) to pull rea
 pip install yfinance matplotlib pandas
 
 
-figures:
+
+
+
+
+## figures:
 
 ![Figure_13](https://github.com/user-attachments/assets/e7153d99-4d06-4d6b-a026-3ec36492d080)
 
