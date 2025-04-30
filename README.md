@@ -16,7 +16,7 @@ pip install yfinance matplotlib pandas
 
 ## figures:
 
-![Figure_13]
+[![Figure_13]](https://github.com/ianspiderr/aramco_stock_analysis.py/blob/main/Figure_1.png)
 
 
 
