@@ -8,21 +8,3 @@ This project uses [yfinance](https://github.com/ranaroussi/yfinance) to pull rea
 
 ```bash
 pip install yfinance matplotlib pandas
-
-
-
-
-
-
-## figures:
-
-[![Figure_13]](https://github.com/ianspiderr/aramco_stock_analysis.py/blob/main/Figure_1.png)
-
-
-
-![Figure_12]
-
-![Figure_1]
-
-
-
